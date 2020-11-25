@@ -43,3 +43,8 @@ And then you will need to add the following dependency to your application `buil
 ### Usage
 
 ...
+
+### Todos
+
+[ ] Animations
+[ ] Search & Filter
